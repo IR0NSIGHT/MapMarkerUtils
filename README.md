@@ -1,5 +1,6 @@
 # MapMarkerUtils
 a library for drawing on the map in starmade
+IMPORTANT: THIS PROJECT HAS VERY LIMITED DOCUMENTATION AND IS DISCONTINUED!
 ## Overview
 this library is not a mod (!). It is not loaded into starmade or runnable. its literally just a library, bunch of class files for you to use.
 the library offers utilities for:
